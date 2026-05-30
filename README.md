@@ -17,7 +17,6 @@
 ### 🛠️ Tec 
 
 ![JavaScript](https://app.silvaxff.site/)
-![HTML5](
 
 ---
 
